@@ -1,2 +1,2 @@
 # github-project
-Author - Aniket A G
+Author - Aniket Girigoud
